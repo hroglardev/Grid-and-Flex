@@ -6,8 +6,8 @@
 }
 
 .beginner-image {
-  width: min(450px, 33%);
-  height: min(450px, 33%);
+  width: min(500px, 33%);
+  height: min(500px, 33%);
   object-fit: cover;
   aspect-ratio: 16 / 9;
 }
